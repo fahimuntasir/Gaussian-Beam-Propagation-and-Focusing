@@ -2,7 +2,7 @@
 # Gaussian Beam Propagation and Focusing: Principles and Applications
 
 **Course:** Principle of Laser  
-**Author:** MUNTASIR MD FAHIM 
+**Author:** MUNTASIR MD FAHIM   
 **Major:** Information and Communication Engineering  
 **University:** Changchun University of Science and Technology
 
